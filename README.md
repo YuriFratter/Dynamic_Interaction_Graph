@@ -1,2 +1,2 @@
 # Dynamic_Interaction_Graph
-Progetto realizzato tramite Qt (C++) .
+Progetto universitario di un grafo rappresentante interazioni sui social (fittizie): oltre alla gestione della memoria e l'utilizzo dell'IDE Qt Creator il punto chiave di questo progetto è stato l'abituarsi ad implementare librerie esterne tramite dependencies e soprattutto scrivere un algoritmo efficiente che assegnasse posizioni casuali ad ogni nodo del grafo senza però comprometterne la leggibilità complessiva (aumentando il distanziamento tra nodi aumentava la leggibilità a discapito delle possibili posizioni disponibili per nuovi nodi, rischiando che l'algoritmo iterasse all'infinito senza trovare le nuove posizioni necessarie).
